@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  border: 5px solid black;
+/* flex-direction: column; */
+  flex-wrap: wrap;
+  
+}
+.item {
+  border: 2px solid blue;
+  align-self: center;
+}
+.item1 {
+  border: 10px solid rgb(3, 166, 0);
+  padding: 20px;
+  margin: 20px;
+}
+.item2 {
+  border: 10px solid rgb(251, 255, 0);
+  padding: 20px;
+  margin: 20px;
+}
+.item3 {
+  border: 10px solid rgb(255, 0, 0);
+  padding: 20px;
+  margin: 20px;
+  align-self: flex-end;
+  font-size: larger;
+  color: rgb(40, 3, 74);
+  background-color: rgb(255, 255, 0);
+}
+.item4 {
+  border: 13px solid blue;
+  color: aqua;
+  background-color: black;
+  padding: 20px;
+  margin: 20px;
+  width: 200px;
+}
+.item5{
+  place-self: center;
+  
+  }
