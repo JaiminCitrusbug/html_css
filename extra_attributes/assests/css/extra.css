@@ -1,0 +1,23 @@
+body {
+  font-size: 5px;
+}
+
+h2 {
+  color: aqua;
+  background-color: dimgray;
+  font-size: 2em;
+}
+div{
+    color:rgb(73, 32, 32);
+    font-size:3em;
+}
+.para{
+    color: blueviolet;
+    font-size: 1.5em;    
+}
+strong{
+    font-size: 4em;
+}
+em{
+    font-size: 4rem;
+}
