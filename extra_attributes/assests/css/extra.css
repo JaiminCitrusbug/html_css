@@ -2,7 +2,7 @@ body {
   font-size: 5px;
 }
 
-h2 {
+#head2{
   color: aqua;
   background-color: dimgray;
   font-size: 2em;
@@ -10,6 +10,7 @@ h2 {
 div{
     color:rgb(73, 32, 32);
     font-size:3em;
+    border: 4px solid black
 }
 .para{
     color: blueviolet;
@@ -20,4 +21,26 @@ strong{
 }
 em{
     font-size: 4rem;
+}
+#div2{
+    font-size: 5px;
+    color: blue;
+}
+#h1{
+    font-size: 2vmax;
+}
+#h2{
+    font-size: 2vmin;
+}
+#h3{
+    font-size: 2vh;
+}
+#h4{
+    font-size: 4vw;
+}
+#h5{
+    font-size: 250%;
+}
+#h6{
+    font-size: 2ch;
 }
