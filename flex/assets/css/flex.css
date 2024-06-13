@@ -1,8 +1,9 @@
 .container {
   display: flex;
   border: 5px solid black;
-
+/* flex-direction: column; */
   flex-wrap: wrap;
+  
 }
 .item {
   border: 2px solid blue;
