@@ -85,3 +85,13 @@
 .btndiv8{
     background-color: aliceblue;
 }
+.btndiv_2{
+    border: 5px solid rgb(88, 0, 56);
+    margin: 30px;
+    padding: 20px;
+   
+    background-color: rgb(245, 255, 213);
+}
+.btndiv21{
+    align-self: center;
+}
