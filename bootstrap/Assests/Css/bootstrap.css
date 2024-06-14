@@ -16,6 +16,13 @@
     flex-direction: column;
     
 }
+.btndiv{
+    border: 5px solid rgb(0, 86, 88);
+    margin: 30px;
+    padding: 20px;
+   
+    background-color: rgb(157, 157, 157);
+}
 .btndiv1{
     display:flex;
     flex-direction: row;
@@ -41,4 +48,40 @@
     padding: 20px;
     justify-content:space-around;
     background-color: rgb(157, 157, 157);
+}
+.btndiv6{
+   
+    border: 5px solid rgb(0, 86, 88);
+    margin: 30px;
+    padding: 20px;
+   
+    background-color: rgb(157, 157, 157);
+}
+.btndiv7{
+    
+    border: 5px solid rgb(0, 86, 88);
+    margin: 30px;
+    padding: 20px;
+    
+    background-color: rgb(157, 157, 157);
+}
+.btndiv4{
+    
+    border: 5px solid rgb(0, 86, 88);
+    margin: 30px;
+    padding: 20px;
+    
+    background-color: rgb(157, 157, 157);
+}
+.btndiv5{
+    display:flex;
+    flex-direction: row;
+    border: 5px solid rgb(61, 2, 76);
+    margin: 30px;
+    padding: 20px;
+    justify-content:space-around;
+    background-color: rgb(255, 238, 238);
+}
+.btndiv8{
+    background-color: aliceblue;
 }
