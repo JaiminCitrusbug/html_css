@@ -89,6 +89,7 @@
     border: 5px solid rgb(47, 0, 33);
     background-color: rgb(140, 254, 244);
     flex-direction: row;
+    justify-content: space-around;
     /* flex-wrap: wrap; */
     /* align-items: baseline; */
 }
